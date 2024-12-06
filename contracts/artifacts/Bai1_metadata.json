@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "number",
+						"type": "uint256"
+					}
+				],
+				"name": "checkNumber",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/bai1.sol": "Bai1"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/bai1.sol": {
+			"keccak256": "0xd5263ad70f42a4be8973ebe3bf6836b1334f159f38a3b544e8f30865a0157a05",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://0846f5a4e04bf08f703d8d0f3ab6d9c568f06bf10815a4818b3711562a9f11a1",
+				"dweb:/ipfs/QmShwrn7shtBts7zugcLbF9Uq1YDZRoqwc84QYo8GYWFfr"
+			]
+		}
+	},
+	"version": 1
+}
