@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/bai5.sol": "Bai5"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/bai5.sol": {
+			"keccak256": "0x302db1406dc661e9fade43b7f9e1b40e071012fc1b5654b131b20bdfd3a2be1f",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://f0180de7b660a98bd9849e902f1c1b363651bb51bcd0a61c0e848bb45754aad1",
+				"dweb:/ipfs/QmbEvsSYD4T5fMdARU3oQshBoPQNt5mnu8TAcHdqk3oRDC"
+			]
+		}
+	},
+	"version": 1
+}

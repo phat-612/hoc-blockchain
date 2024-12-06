@@ -1,0 +1,103 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "GioiTinh",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "Hoten",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "hienThongTin",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_Hoten",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_GioiTinh",
+						"type": "string"
+					}
+				],
+				"name": "nhanThongTin",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/bai5.sol": "Nguoi"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/bai5.sol": {
+			"keccak256": "0x4d14de143f64cc46bb8f5adeea18904761c51878fd066df68189807c991df286",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://a94a2c61c5adfe513365a0bc362949ce1c89b743e4d9ad7bab1004a3864e4fdd",
+				"dweb:/ipfs/QmVgEbWZmt1BDwvMABVZspnRtau8eJYbctar2YC7T8G9pU"
+			]
+		}
+	},
+	"version": 1
+}

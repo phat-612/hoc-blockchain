@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/bai5.sol": "Ngipo"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/bai5.sol": {
+			"keccak256": "0x7be0b7a6d2d2b924413b56c895efb6eb7a44c7b17fd92ff2967d404aa36caee4",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://49683bb78cfbb93d22575cc6fa14c9f9a35137886cf99fac96ab25cf4a2dd8f9",
+				"dweb:/ipfs/QmWKvGiFc2gPcgQAj3Cf42asn2VJ88jtBT72ygkKUL4RzA"
+			]
+		}
+	},
+	"version": 1
+}
